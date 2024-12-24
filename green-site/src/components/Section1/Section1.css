@@ -1,0 +1,19 @@
+.swiper-pagination-bullet-active {
+    background-color: #43A046 !important;
+}
+
+.swiper-pagination-bullet {
+    width: 10px;
+    height: 10px;
+    background-color: #18cd18;
+}
+
+.swiper-horizontal {
+    position: static !important;
+    overflow: hidden;
+}
+
+.swiper-pagination {
+    position: absolute;
+    bottom: 10px!important;
+}
